@@ -11,8 +11,7 @@ namespace DevOps
     {
         static void Main(string[] args)
         {
-            int hora = 0;
-            int tiempo=0;
+            
         }
     }
 }
